@@ -4,3 +4,5 @@ changing lines from my console
 this is a demo file created 
 hey testing conflicts
 
+changes made by developer c
+
